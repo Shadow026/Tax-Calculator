@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Calculadora_De_Salario</id>
+    <version>1.0.0</version>
+    <authors>Calculadora_De_Salario</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows7.0/financial_accounting_calculate_calculator_finance_consultation_calculation_report_tax_icon_233530.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Release\net8.0-windows\Calculadora_De_Salario.runtimeconfig.json" target="lib\net8.0-windows7.0\Calculadora_De_Salario.runtimeconfig.json" />
+    <file src="C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Release\net8.0-windows\Calculadora_De_Salario.dll" target="lib\net8.0-windows7.0\Calculadora_De_Salario.dll" />
+    <file src="C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\financial_accounting_calculate_calculator_finance_consultation_calculation_report_tax_icon_233530.ico" target="content\financial_accounting_calculate_calculator_finance_consultation_calculation_report_tax_icon_233530.ico" />
+    <file src="C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\financial_accounting_calculate_calculator_finance_consultation_calculation_report_tax_icon_233530.ico" target="contentFiles\any\net8.0-windows7.0\financial_accounting_calculate_calculator_finance_consultation_calculation_report_tax_icon_233530.ico" />
+  </files>
+</package>

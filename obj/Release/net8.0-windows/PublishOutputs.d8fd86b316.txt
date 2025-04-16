@@ -1,0 +1,5 @@
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Release\net8.0-windows\publish\Calculadora_De_Salario.exe
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Release\net8.0-windows\publish\Calculadora_De_Salario.dll
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Release\net8.0-windows\publish\Calculadora_De_Salario.deps.json
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Release\net8.0-windows\publish\Calculadora_De_Salario.runtimeconfig.json
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Release\net8.0-windows\publish\Calculadora_De_Salario.pdb

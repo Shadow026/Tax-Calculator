@@ -1,0 +1,16 @@
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Debug\net8.0-windows\Calculadora_De_Salario.exe
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Debug\net8.0-windows\Calculadora_De_Salario.deps.json
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Debug\net8.0-windows\Calculadora_De_Salario.runtimeconfig.json
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Debug\net8.0-windows\Calculadora_De_Salario.dll
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\bin\Debug\net8.0-windows\Calculadora_De_Salario.pdb
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\obj\Debug\net8.0-windows\Calculadora_De_Salario.Form1.resources
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\obj\Debug\net8.0-windows\Calculadora_De_Salario.csproj.GenerateResource.cache
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\obj\Debug\net8.0-windows\Calculadora_De_Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\obj\Debug\net8.0-windows\Calculadora_De_Salario.AssemblyInfoInputs.cache
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\obj\Debug\net8.0-windows\Calculadora_De_Salario.AssemblyInfo.cs
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\obj\Debug\net8.0-windows\Calculadora_De_Salario.csproj.CoreCompileInputs.cache
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\obj\Debug\net8.0-windows\Calculadora_De_Salario.dll
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\obj\Debug\net8.0-windows\refint\Calculadora_De_Salario.dll
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\obj\Debug\net8.0-windows\Calculadora_De_Salario.pdb
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\obj\Debug\net8.0-windows\Calculadora_De_Salario.genruntimeconfig.cache
+C:\Users\hol33\OneDrive\Documentos\C#\Calculadora_De_Salario\Calculadora_De_Salario\obj\Debug\net8.0-windows\ref\Calculadora_De_Salario.dll

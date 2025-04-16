@@ -1,0 +1,5 @@
+E:\Videos\Calculadora_De_Salario.exe
+E:\Videos\Calculadora_De_Salario.dll
+E:\Videos\Calculadora_De_Salario.deps.json
+E:\Videos\Calculadora_De_Salario.runtimeconfig.json
+E:\Videos\Calculadora_De_Salario.pdb
