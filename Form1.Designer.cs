@@ -34,10 +34,6 @@
             label2 = new Label();
             TxtSalario = new TextBox();
             TABLA = new DataGridView();
-            label3 = new Label();
-            TxtCargo = new TextBox();
-            BotonCalcular = new Button();
-            label4 = new Label();
             Nombre = new DataGridViewTextBoxColumn();
             Cargo = new DataGridViewTextBoxColumn();
             Salario = new DataGridViewTextBoxColumn();
@@ -50,6 +46,10 @@
             ColumnaAFPPatronal = new DataGridViewTextBoxColumn();
             TotalISSS = new DataGridViewTextBoxColumn();
             TotalAFP = new DataGridViewTextBoxColumn();
+            label3 = new Label();
+            TxtCargo = new TextBox();
+            BotonCalcular = new Button();
+            label4 = new Label();
             ((System.ComponentModel.ISupportInitialize)TABLA).BeginInit();
             SuspendLayout();
             // 
@@ -115,47 +115,6 @@
             TABLA.TabIndex = 5;
             TABLA.CellContentClick += TABLA_CellContentClick;
             // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.Location = new Point(10, 152);
-            label3.Name = "label3";
-            label3.Size = new Size(130, 20);
-            label3.TabIndex = 6;
-            label3.Text = "Cargo Que Ocupa";
-            // 
-            // TxtCargo
-            // 
-            TxtCargo.Location = new Point(10, 175);
-            TxtCargo.Name = "TxtCargo";
-            TxtCargo.Size = new Size(276, 23);
-            TxtCargo.TabIndex = 7;
-            TxtCargo.KeyPress += textBox1_KeyPress_1;
-            // 
-            // BotonCalcular
-            // 
-            BotonCalcular.BackColor = Color.SteelBlue;
-            BotonCalcular.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            BotonCalcular.Location = new Point(17, 317);
-            BotonCalcular.Name = "BotonCalcular";
-            BotonCalcular.Size = new Size(264, 52);
-            BotonCalcular.TabIndex = 8;
-            BotonCalcular.Text = "CALCULAR";
-            BotonCalcular.UseVisualStyleBackColor = false;
-            BotonCalcular.Click += BotonCalcular_Click;
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label4.Location = new Point(1, 505);
-            label4.Name = "label4";
-            label4.Size = new Size(542, 30);
-            label4.TabIndex = 9;
-            label4.Text = "FRANCISCO JAVIER SARAVIA SARAVIA - USSS020525";
-            label4.Click += label4_Click;
-            // 
             // Nombre
             // 
             Nombre.HeaderText = "Nombre";
@@ -216,6 +175,46 @@
             // 
             TotalAFP.HeaderText = "Total AFP";
             TotalAFP.Name = "TotalAFP";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.Location = new Point(10, 152);
+            label3.Name = "label3";
+            label3.Size = new Size(130, 20);
+            label3.TabIndex = 6;
+            label3.Text = "Cargo Que Ocupa";
+            // 
+            // TxtCargo
+            // 
+            TxtCargo.Location = new Point(10, 175);
+            TxtCargo.Name = "TxtCargo";
+            TxtCargo.Size = new Size(276, 23);
+            TxtCargo.TabIndex = 7;
+            TxtCargo.KeyPress += textBox1_KeyPress_1;
+            // 
+            // BotonCalcular
+            // 
+            BotonCalcular.BackColor = Color.SteelBlue;
+            BotonCalcular.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            BotonCalcular.Location = new Point(17, 317);
+            BotonCalcular.Name = "BotonCalcular";
+            BotonCalcular.Size = new Size(264, 52);
+            BotonCalcular.TabIndex = 8;
+            BotonCalcular.Text = "CALCULAR";
+            BotonCalcular.UseVisualStyleBackColor = false;
+            BotonCalcular.Click += BotonCalcular_Click;
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label4.Location = new Point(1, 505);
+            label4.Name = "label4";
+            label4.Size = new Size(0, 30);
+            label4.TabIndex = 9;
+            label4.Click += label4_Click;
             // 
             // Form1
             // 
